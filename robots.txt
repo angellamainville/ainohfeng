@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohxooshah.amberpahare.com/sitemap.xml
